@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Moxa Patel
-- 🌱 I’m currently learning competitive programming
+- 🌱 I’m currently focused on data structures and algorithms using c++. I have been working on web development using Technologies like ReactJS, NodeJS, Redux and firebase.
 - 💞️ I’m looking to collaborate on real world project
 - 📫 How to reach me moxapatel173@gmail.com
 
